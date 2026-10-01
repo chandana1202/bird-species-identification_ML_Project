@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/*
+!data/README.md
+models/*.pth
+!models/README.md
+.DS_Store

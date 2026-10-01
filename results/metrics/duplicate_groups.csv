@@ -1,0 +1,13 @@
+image_id,rel_path,official_split,phash
+4879,084.Red_legged_Kittiwake/Red_Legged_Kittiwake_0020_795439.jpg,test,b3166ee827ac5833
+4890,084.Red_legged_Kittiwake/Red_Legged_Kittiwake_0042_795457.jpg,test,b3166ee827ac5833
+8207,140.Summer_Tanager/Summer_Tanager_0047_140164.jpg,test,d8a43fbdf2889262
+8215,140.Summer_Tanager/Summer_Tanager_0124_139963.jpg,test,d8a43fbdf2889262
+1211,022.Chuck_will_Widow/Chuck_Will_Widow_0042_796983.jpg,test,def1e8c53439c131
+6106,105.Whip_poor_Will/Whip_Poor_Will_0002_796427.jpg,test,def1e8c53439c131
+1413,026.Bronzed_Cowbird/Bronzed_Cowbird_0025_796213.jpg,test,e34c99d201db8b37
+1460,026.Bronzed_Cowbird/Bronzed_Cowbird_0074_24045.jpg,train,e34c99d201db8b37
+3310,058.Pigeon_Guillemot/Pigeon_Guillemot_0018_40195.jpg,train,e99496c3e9cc3436
+3340,058.Pigeon_Guillemot/Pigeon_Guillemot_0081_40339.jpg,train,e99496c3e9cc3436
+10428,178.Swainson_Warbler/Swainson_Warbler_0049_794880.jpg,train,fd995d060b0360f7
+10474,178.Swainson_Warbler/Swainson_Warbler_0022_794868.jpg,train,fd995d060b0360f7

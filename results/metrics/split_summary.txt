@@ -1,0 +1,4 @@
+Removed 1 train images duplicating a test image
+Removed 2 repeated duplicates inside the train pool
+Train: 4792  Val: 1199  Test: 5794
+Classes in train: 200, val: 200, test: 200

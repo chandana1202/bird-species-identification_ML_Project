@@ -1,0 +1,9 @@
+Total images: 11788
+Number of classes: 200
+Official split counts: {'train': 5994, 'test': 5794}
+Images per class -> min 41 (Least Auklet), max 60 (Winter Wren), mean 58.9, median 60.0
+Train images per class -> min 29, max 30
+Corrupted/unreadable images: 0
+Image modes: {'RGB': 11780, 'L': 8}
+Width  -> min 121, median 500, max 500
+Height -> min 120, median 375, max 500
